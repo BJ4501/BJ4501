@@ -1,4 +1,9 @@
 ## Okay, I'm Jmeow
+
+🐾 Developer & Furry  
+🔨 Building at [Pawket]() · [Furries]() · [Pawforge]() · [LeisureFurcon]()  
+☕ Turning caffeine into commits, one paw at a time
+
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 

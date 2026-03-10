@@ -1,5 +1,6 @@
 ## Okay, I'm Jmeow
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BJ4501)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <!---
 BJ4501/BJ4501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
